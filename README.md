@@ -10,7 +10,7 @@ Welcome to the **Cyber Dark Theme** for Visual Studio Code. Embrace a sleek, cyb
 The theme only works with the latest version **1.91.0** if you get an error message update your vscode
 
 [https://marketplace.visualstudio.com/items?itemName=selimAP.Cyber-Dark-Theme](https://marketplace.visualstudio.com/items?itemName=selimAP.Cyber-Dark-Theme)
->>>>>>> a28eac5e2846ae1bc08fb0e98f6fe16d590a919e
+>>>>>>
 
 You can install the theme from the Visual Studio Marketplace [here](https://marketplace.visualstudio.com/items?itemName=selimAP.Cyber-Dark-Theme).
 
