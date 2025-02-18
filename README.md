@@ -1,5 +1,13 @@
 # Cyber Dark Theme
 
+
+## Theme Preview
+
+![Cyber Dark Theme Preview 1](https://raw.githubusercontent.com/selimAP/CyberTheme/main/images/1.png)
+![Cyber Dark Theme Preview 2](https://raw.githubusercontent.com/selimAP/CyberTheme/main/images/2.png)
+![Cyber Dark Theme Preview 3](https://raw.githubusercontent.com/selimAP/CyberTheme/main/images/3.png)
+
+
 ## Introduction
 
 Welcome to the **Cyber Dark Theme** for Visual Studio Code. Embrace a sleek, cyber-inspired aesthetic with a dark background and vibrant, contrasting colors, perfect for a futuristic coding experience.
