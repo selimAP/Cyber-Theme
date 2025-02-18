@@ -4,9 +4,9 @@
 ## Theme Preview
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/selimAP/Cyber-Theme/main/images/1.png" alt="Cyber Dark Theme Preview 1" width="450">
-    <img src="https://raw.githubusercontent.com/selimAP/Cyber-Theme/main/images/2.png" alt="Cyber Dark Theme Preview 2" width="450">
-    <img src="https://raw.githubusercontent.com/selimAP/Cyber-Theme/main/images/3.png" alt="Cyber Dark Theme Preview 3" width="450">
+    <img src="https://github.com/selimAP/Cyber-Theme/blob/main/images/1.png?raw=true" alt="Cyber Dark Theme Preview 1" width="400" style="border-radius: 10px; margin: 10px;">
+    <img src="https://github.com/selimAP/Cyber-Theme/blob/main/images/2.png?raw=true" alt="Cyber Dark Theme Preview 2" width="400" style="border-radius: 10px; margin: 10px;">
+    <img src="https://github.com/selimAP/Cyber-Theme/blob/main/images/3.png?raw=true" alt="Cyber Dark Theme Preview 3" width="400" style="border-radius: 10px; margin: 10px;">
 </p>
 
 
