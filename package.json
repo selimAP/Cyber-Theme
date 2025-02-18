@@ -1,7 +1,7 @@
 {
-  "name": "Cyber Dark Theme",
+  "name": "cyber-dark-theme",
   "description": "The VSCODE theme you need!",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "publisher": "selimAP",
   "repository": {
     "type": "git",
