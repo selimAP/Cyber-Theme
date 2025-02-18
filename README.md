@@ -3,9 +3,14 @@
 
 ## Theme Preview
 
-![Cyber Dark Theme Preview 1](https://raw.githubusercontent.com/selimAP/CyberTheme/main/images/1.png)
-![Cyber Dark Theme Preview 2](https://raw.githubusercontent.com/selimAP/CyberTheme/main/images/2.png)
-![Cyber Dark Theme Preview 3](https://raw.githubusercontent.com/selimAP/CyberTheme/main/images/3.png)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/selimAP/Cyber-Theme/main/images/1.png" alt="Cyber Dark Theme Preview 1" width="450">
+    <img src="https://raw.githubusercontent.com/selimAP/Cyber-Theme/main/images/2.png" alt="Cyber Dark Theme Preview 2" width="450">
+    <img src="https://raw.githubusercontent.com/selimAP/Cyber-Theme/main/images/3.png" alt="Cyber Dark Theme Preview 3" width="450">
+</p>
+
+
+
 
 
 ## Introduction
